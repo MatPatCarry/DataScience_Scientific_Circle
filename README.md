@@ -1,2 +1,2 @@
 # Data Science Scientific Circle (Assigments to do at home)
-## In this repository, you can find solutions to tasks which are being assigned after Scientific Circle Workshops. 
+## In this repository, you can find solutions to tasks which are being assigned after Scientific Circle Workshops which I attend to. 
